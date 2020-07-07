@@ -78,12 +78,12 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     #wrapper-content{
-        width:85%;       
+        width:100%;       
     }
     #circle{
             color:darkgray;
             border-radius:50%;
-            width: 100%;
+            width: 81%;
             height:310px;
         }
     #circle .h2{
@@ -93,12 +93,12 @@
   /* Small devices (portrait tablets and large phones, 600px and up) */
   @media only screen and (min-width: 600px) {
     #wrapper-content{
-        width:80%;       
+        width:100%;       
     }
     #circle{
             color:darkgray;
             border-radius: 50%;
-            width: 90%;
+            width: 80%;
             height:310px;
         }
     #circle .h2{
