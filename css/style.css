@@ -78,7 +78,7 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     #wrapper-content{
-        width:85%;       
+        width:100%;       
     }
     #circle{
             color:darkgray;
